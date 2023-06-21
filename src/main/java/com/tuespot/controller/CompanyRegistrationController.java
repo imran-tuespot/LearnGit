@@ -53,6 +53,7 @@ public class CompanyRegistrationController {
 			jobDetails.findElement(By.xpath("//*[@id=\"ember8\"]")).click();
 			
 			
+			
  //driver.findElement(By.xpath("//*[@id=\"main-content\"]/section[2]/ul"));
 
 			//jobDetails.close();
